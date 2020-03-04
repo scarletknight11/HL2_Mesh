@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/MixedRealityToolkit.Examples/Demos/SpatialAwareness/Scenes/SpatialAwarenessMeshDemo.unity
-    guid: 9db181581e617224e962601f062da844
-  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SpatialAwareness.unity
+    guid: c2ea681bce15943479b98777befa92c4
   m_configObjects: {}
